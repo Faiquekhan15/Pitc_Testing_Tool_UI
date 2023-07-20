@@ -1,7 +1,6 @@
 # Pitc_Testing_Tool_UI
 
 Transfopower@pvt limited
-Transfopower Logo (Replace logo.png with your project's logo or an image representing your project)
 
 Introduction
 Welcome to the Transfopower@pvt limited repository! This repository is dedicated to the development and update management of our project. Here, you will find all the essential information about the project, its purpose, and how to set it up. Additionally, we encourage community contributions to make this project even better.

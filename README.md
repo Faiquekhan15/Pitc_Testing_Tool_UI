@@ -3,7 +3,7 @@
 Transfopower@pvt limited
 
 Introduction
-Welcome to the Transfopower@pvt limited repository! This repository is dedicated to the development and update management of our project. Here, you will find all the essential information about the project, its purpose, and how to set it up. Additionally, we encourage community contributions to make this project even better.
+Welcome to the Pitc_Testing_Tool_UI repository! This repository is dedicated to the development and update management of our project. Here, you will find all the essential information about the project, its purpose, and how to set it up. Additionally, we encourage community contributions to make this project even better.
 
 Table of Contents
 1. Introduction 
